@@ -924,7 +924,7 @@ Object.defineProperty(window, 'l10n', {
         ['nl', 'Probeer het opnieuw met een andere methode, headers, payload of URL'],
         ['de', 'Bitte versuchen Sie, die Anfragemethode, Header, Payload oder URL zu ändern'],
         ['es', 'Por favor intente cambiar el método de la petición, cabeceras, carga o URL'],
-        ['zh', '请尝试更改请求方法或URL'],
+        ['zh', '请尝试更改请求方法或 URL'],
         ['id', 'Coba lagi dengan metode, header, muatan, atau URL yang berbeda'],
         ['pl', 'Spróbuj zmienić metodę żądania, nagłówki, żądanie lub adres URL'],
         ['ko', '요청 방법, 헤더, 콘텐츠 또는 URL을 변경해 보세요'],
